@@ -1,0 +1,5 @@
+name: jp.aymandev.healthcontroller.HealthController
+version: 1.0.0
+author: AymanDev
+main: jp.aymandev.healthcontroller.jp.aymandev.healthcontroller.HealthController
+website: http://aymandev.info/

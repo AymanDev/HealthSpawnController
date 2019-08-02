@@ -1,0 +1,10 @@
+name: HealthSpawnController
+version: 1.0.0
+author: AymanDev
+main: jp.aymandev.healthspawncontroller.HealthSpawnCore
+website: http://aymandev.info/
+commands:
+  setSpawn:
+    description: Setting spawn for player
+    usage: /setSpawn <player_name> <x> <y> <z>
+    aliases: [setspawn, sets, sp]
